@@ -1,0 +1,13 @@
+28.  Букмекерская контора: Игроки, матчи, коэффициенты (анализ ставок).
+
+Описание таблиц:
+
+ТАБЛИЦЫ УЗЛОВ:
+• Player (PlayerID, FullName, Balance) — игроки
+• Match (MatchID, Sport, HomeTeam, AwayTeam, MatchDate, Status) — матчи
+• Coefficient (CoeffID, MarketType, Value) — коэффициенты ставок
+
+ТАБЛИЦЫ РЁБЕР:
+• PlacesBet (Player→Match) — ставки игроков на матчи
+• HasCoefficient (Match→Coefficient) — коэффициенты для матчей
+• FollowsPlayer (Player→Player) — подписки между игроками
