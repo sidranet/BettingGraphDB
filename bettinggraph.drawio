@@ -1,0 +1,328 @@
+<mxfile host="app.diagrams.net" pages="4">
+  <diagram name="1. Узлы" id="sP80NX4SmUODHCe93qv8">
+    <mxGraphModel dx="2060" dy="1144" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="p1" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;" value="1&#xa;Иванов И." vertex="1">
+          <mxGeometry height="80" width="120" x="50" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="p2" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;" value="2&#xa;Петров А." vertex="1">
+          <mxGeometry height="80" width="120" x="50" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="p3" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;" value="3&#xa;Сидоров К." vertex="1">
+          <mxGeometry height="80" width="120" x="50" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="p4" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;" value="4&#xa;Кузнецов М." vertex="1">
+          <mxGeometry height="80" width="120" x="50" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="p5" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;" value="5&#xa;Смирнов В." vertex="1">
+          <mxGeometry height="80" width="120" x="50" y="450" as="geometry" />
+        </mxCell>
+        <mxCell id="p6" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;" value="6&#xa;Попов Д." vertex="1">
+          <mxGeometry height="80" width="120" x="50" y="550" as="geometry" />
+        </mxCell>
+        <mxCell id="p7" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;" value="7&#xa;Васильев Н." vertex="1">
+          <mxGeometry height="80" width="120" x="50" y="650" as="geometry" />
+        </mxCell>
+        <mxCell id="p8" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;" value="8&#xa;Новиков Е." vertex="1">
+          <mxGeometry height="80" width="120" x="50" y="750" as="geometry" />
+        </mxCell>
+        <mxCell id="p9" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;" value="9&#xa;Федоров Р." vertex="1">
+          <mxGeometry height="80" width="120" x="50" y="850" as="geometry" />
+        </mxCell>
+        <mxCell id="p10" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;" value="10&#xa;Морозов Л." vertex="1">
+          <mxGeometry height="80" width="120" x="50" y="950" as="geometry" />
+        </mxCell>
+        <mxCell id="m1" parent="1" style="whiteSpace=wrap;html=1;align=center;" value="1&#xa;Спартак-Зенит" vertex="1">
+          <mxGeometry height="80" width="140" x="300" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="m2" parent="1" style="whiteSpace=wrap;html=1;align=center;" value="2&#xa;ЦСКА-Локо" vertex="1">
+          <mxGeometry height="80" width="140" x="300" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="m3" parent="1" style="whiteSpace=wrap;html=1;align=center;" value="3&#xa;Джокович-Надаль" vertex="1">
+          <mxGeometry height="80" width="140" x="300" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="m4" parent="1" style="whiteSpace=wrap;html=1;align=center;" value="4&#xa;Lakers-Warriors" vertex="1">
+          <mxGeometry height="80" width="140" x="300" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="m5" parent="1" style="whiteSpace=wrap;html=1;align=center;" value="5&#xa;СКА-ЦСКА" vertex="1">
+          <mxGeometry height="80" width="140" x="300" y="450" as="geometry" />
+        </mxCell>
+        <mxCell id="m6" parent="1" style="whiteSpace=wrap;html=1;align=center;" value="6&#xa;Реал-Барса" vertex="1">
+          <mxGeometry height="80" width="140" x="300" y="550" as="geometry" />
+        </mxCell>
+        <mxCell id="m7" parent="1" style="whiteSpace=wrap;html=1;align=center;" value="7&#xa;Медведев-Алькарас" vertex="1">
+          <mxGeometry height="80" width="140" x="300" y="650" as="geometry" />
+        </mxCell>
+        <mxCell id="m8" parent="1" style="whiteSpace=wrap;html=1;align=center;" value="8&#xa;Bulls-Celtics" vertex="1">
+          <mxGeometry height="80" width="140" x="300" y="750" as="geometry" />
+        </mxCell>
+        <mxCell id="m9" parent="1" style="whiteSpace=wrap;html=1;align=center;" value="9&#xa;Динамо-АкБарс" vertex="1">
+          <mxGeometry height="80" width="140" x="300" y="850" as="geometry" />
+        </mxCell>
+        <mxCell id="m10" parent="1" style="whiteSpace=wrap;html=1;align=center;" value="10&#xa;ManCity-Liverpool" vertex="1">
+          <mxGeometry height="80" width="140" x="300" y="950" as="geometry" />
+        </mxCell>
+        <mxCell id="c1" parent="1" style="hexagon;whiteSpace=wrap;html=1;align=center;" value="1&#xa;Win1: 1.85" vertex="1">
+          <mxGeometry height="80" width="130" x="550" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="c2" parent="1" style="hexagon;whiteSpace=wrap;html=1;align=center;" value="2&#xa;Draw: 3.40" vertex="1">
+          <mxGeometry height="80" width="130" x="550" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="c3" parent="1" style="hexagon;whiteSpace=wrap;html=1;align=center;" value="3&#xa;Win2: 4.10" vertex="1">
+          <mxGeometry height="80" width="130" x="550" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="c4" parent="1" style="hexagon;whiteSpace=wrap;html=1;align=center;" value="4&#xa;Over2.5: 1.90" vertex="1">
+          <mxGeometry height="80" width="130" x="550" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="c5" parent="1" style="hexagon;whiteSpace=wrap;html=1;align=center;" value="5&#xa;Win1: 2.20" vertex="1">
+          <mxGeometry height="80" width="130" x="550" y="450" as="geometry" />
+        </mxCell>
+        <mxCell id="c6" parent="1" style="hexagon;whiteSpace=wrap;html=1;align=center;" value="6&#xa;Under2.5: 1.95" vertex="1">
+          <mxGeometry height="80" width="130" x="550" y="550" as="geometry" />
+        </mxCell>
+        <mxCell id="c7" parent="1" style="hexagon;whiteSpace=wrap;html=1;align=center;" value="7&#xa;Win2: 3.80" vertex="1">
+          <mxGeometry height="80" width="130" x="550" y="650" as="geometry" />
+        </mxCell>
+        <mxCell id="c8" parent="1" style="hexagon;whiteSpace=wrap;html=1;align=center;" value="8&#xa;Win1: 1.50" vertex="1">
+          <mxGeometry height="80" width="130" x="550" y="750" as="geometry" />
+        </mxCell>
+        <mxCell id="c9" parent="1" style="hexagon;whiteSpace=wrap;html=1;align=center;" value="9&#xa;Draw: 4.00" vertex="1">
+          <mxGeometry height="80" width="130" x="550" y="850" as="geometry" />
+        </mxCell>
+        <mxCell id="c10" parent="1" style="hexagon;whiteSpace=wrap;html=1;align=center;" value="10&#xa;Over1.5: 1.75" vertex="1">
+          <mxGeometry height="80" width="130" x="550" y="950" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="2. Player → Player (Follows)" id="EZTOlidz8DUXiBPw1ekS">
+    <mxGraphModel dx="1373" dy="763" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="p1" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;" value="1&#xa;Иванов И." vertex="1">
+          <mxGeometry height="80" width="120" x="220" y="241" as="geometry" />
+        </mxCell>
+        <mxCell id="p2" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;" value="2&#xa;Петров А." vertex="1">
+          <mxGeometry height="80" width="120" x="610" y="301" as="geometry" />
+        </mxCell>
+        <mxCell id="p3" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;" value="3&#xa;Сидоров К." vertex="1">
+          <mxGeometry height="80" width="120" x="450" y="501" as="geometry" />
+        </mxCell>
+        <mxCell id="p4" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;" value="4&#xa;Кузнецов М." vertex="1">
+          <mxGeometry height="80" width="120" x="630" y="551" as="geometry" />
+        </mxCell>
+        <mxCell id="p5" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;" value="5&#xa;Смирнов В." vertex="1">
+          <mxGeometry height="80" width="120" x="595" y="681" as="geometry" />
+        </mxCell>
+        <mxCell id="p6" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;" value="6&#xa;Попов Д." vertex="1">
+          <mxGeometry height="80" width="120" x="410" y="721" as="geometry" />
+        </mxCell>
+        <mxCell id="p7" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;" value="7&#xa;Васильев Н." vertex="1">
+          <mxGeometry height="80" width="120" x="190" y="711" as="geometry" />
+        </mxCell>
+        <mxCell id="p8" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;" value="8&#xa;Новиков Е." vertex="1">
+          <mxGeometry height="80" width="120" x="100" y="591" as="geometry" />
+        </mxCell>
+        <mxCell id="p9" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;" value="9&#xa;Федоров Р." vertex="1">
+          <mxGeometry height="80" width="120" x="210" y="491" as="geometry" />
+        </mxCell>
+        <mxCell id="p10" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;" value="10&#xa;Морозов Л." vertex="1">
+          <mxGeometry height="80" width="120" x="80" y="361" as="geometry" />
+        </mxCell>
+        <mxCell id="e1" edge="1" parent="1" source="p1" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;entryX=0;entryY=0.5;" target="p2" value="0.9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e2" edge="1" parent="1" source="p1" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=1;entryX=1;entryY=0;entryDx=0;entryDy=0;exitDx=0;exitDy=0;" target="p3" value="0.8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e3" edge="1" parent="1" source="p2" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitDx=0;exitDy=0;" target="p4" value="0.7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e4" edge="1" parent="1" source="p3" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0;entryX=0.5;entryY=1;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" target="p1" value="0.85">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e5" edge="1" parent="1" source="p4" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;entryX=0.5;entryY=0;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" target="p5" value="0.6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e6" edge="1" parent="1" source="p5" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;entryX=1;entryY=0.5;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" target="p6" value="0.95">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e7" edge="1" parent="1" source="p6" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;entryX=1;entryY=0.5;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" target="p7" value="0.75">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e8" edge="1" parent="1" source="p7" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;entryX=0.5;entryY=1;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" target="p8" value="0.8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e9" edge="1" parent="1" source="p8" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="p9" value="0.7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e10" edge="1" parent="1" source="p9" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;entryX=0.5;entryY=1;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" target="p10" value="0.88">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e11" edge="1" parent="1" source="p10" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;entryX=0;entryY=0.5;" target="p1" value="0.92">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="3. Player → Match (PlacesBet)" id="8Uwv5IP8ylhQw_aMsz5k">
+    <mxGraphModel dx="1717" dy="953" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="p1" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;" value="1&#xa;Иванов И." vertex="1">
+          <mxGeometry height="80" width="120" x="156" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="p2" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;" value="2&#xa;Петров А." vertex="1">
+          <mxGeometry height="80" width="120" x="156" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="p3" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;" value="3&#xa;Сидоров К." vertex="1">
+          <mxGeometry height="80" width="120" x="156" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="p4" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;" value="4&#xa;Кузнецов М." vertex="1">
+          <mxGeometry height="80" width="120" x="156" y="500" as="geometry" />
+        </mxCell>
+        <mxCell id="p5" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;" value="5&#xa;Смирнов В." vertex="1">
+          <mxGeometry height="80" width="120" x="156" y="650" as="geometry" />
+        </mxCell>
+        <mxCell id="p6" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;" value="6&#xa;Попов Д." vertex="1">
+          <mxGeometry height="80" width="120" x="794" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="p7" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;" value="7&#xa;Васильев Н." vertex="1">
+          <mxGeometry height="80" width="120" x="794" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="p8" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;" value="8&#xa;Новиков Е." vertex="1">
+          <mxGeometry height="80" width="120" x="794" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="p9" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;" value="9&#xa;Федоров Р." vertex="1">
+          <mxGeometry height="80" width="120" x="794" y="500" as="geometry" />
+        </mxCell>
+        <mxCell id="p10" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;" value="10&#xa;Морозов Л." vertex="1">
+          <mxGeometry height="80" width="120" x="794" y="650" as="geometry" />
+        </mxCell>
+        <mxCell id="m1" parent="1" style="whiteSpace=wrap;html=1;align=center;" value="1&#xa;Спартак-Зенит" vertex="1">
+          <mxGeometry height="80" width="140" x="490" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="m2" parent="1" style="whiteSpace=wrap;html=1;align=center;" value="2&#xa;ЦСКА-Локо" vertex="1">
+          <mxGeometry height="80" width="140" x="490" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="m3" parent="1" style="whiteSpace=wrap;html=1;align=center;" value="3&#xa;Джокович-Надаль" vertex="1">
+          <mxGeometry height="80" width="140" x="490" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="m4" parent="1" style="whiteSpace=wrap;html=1;align=center;" value="4&#xa;Lakers-Warriors" vertex="1">
+          <mxGeometry height="80" width="140" x="490" y="500" as="geometry" />
+        </mxCell>
+        <mxCell id="m5" parent="1" style="whiteSpace=wrap;html=1;align=center;" value="5&#xa;СКА-ЦСКА" vertex="1">
+          <mxGeometry height="80" width="140" x="490" y="650" as="geometry" />
+        </mxCell>
+        <mxCell id="b1" edge="1" parent="1" source="p1" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" target="m1" value="500">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="b2" edge="1" parent="1" source="p1" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" target="m2" value="300">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="b3" edge="1" parent="1" source="p2" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;entryX=0;entryY=0.5;" target="m1" value="1000">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="b4" edge="1" parent="1" source="p2" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;entryX=0;entryY=0.5;" target="m3" value="400">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="b5" edge="1" parent="1" source="p3" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;entryX=0;entryY=0.5;" target="m4" value="600">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="b6" edge="1" parent="1" source="p3" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=1;entryX=0;entryY=0.5;exitDx=0;exitDy=0;" target="m5" value="200">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="b7" edge="1" parent="1" source="p4" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" target="m1" value="800">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="b8" edge="1" parent="1" source="p5" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;entryX=0;entryY=0.5;" target="m2" value="1500">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="b9" edge="1" parent="1" source="p6" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitDx=0;exitDy=0;" target="m3" value="500">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="b10" edge="1" parent="1" source="p7" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=1;entryX=1;entryY=0.5;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" target="m4" value="700">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="b11" edge="1" parent="1" source="p8" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=1;entryX=1;entryY=0.5;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" target="m5" value="900">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="b12" edge="1" parent="1" source="p9" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0;entryX=1;entryY=0.5;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" target="m1" value="1200">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="b13" edge="1" parent="1" source="p10" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;exitDx=0;exitDy=0;" target="m3" value="400">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="4. Match → Coefficient (HasCoeff)" id="D24klZMveJ2dW1YgqruU">
+    <mxGraphModel dx="1717" dy="953" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="m1" parent="1" style="whiteSpace=wrap;html=1;align=center;" value="1&#xa;Спартак-Зенит" vertex="1">
+          <mxGeometry height="80" width="140" x="338" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="m3" parent="1" style="whiteSpace=wrap;html=1;align=center;" value="3&#xa;Джокович-Надаль" vertex="1">
+          <mxGeometry height="80" width="140" x="338" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="m4" parent="1" style="whiteSpace=wrap;html=1;align=center;" value="4&#xa;Lakers-Warriors" vertex="1">
+          <mxGeometry height="80" width="140" x="338" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="m6" parent="1" style="whiteSpace=wrap;html=1;align=center;" value="6&#xa;Реал-Барса" vertex="1">
+          <mxGeometry height="80" width="140" x="338" y="500" as="geometry" />
+        </mxCell>
+        <mxCell id="m8" parent="1" style="whiteSpace=wrap;html=1;align=center;" value="8&#xa;Bulls-Celtics" vertex="1">
+          <mxGeometry height="80" width="140" x="338" y="650" as="geometry" />
+        </mxCell>
+        <mxCell id="c1" parent="1" style="hexagon;whiteSpace=wrap;html=1;align=center;" value="1&#xa;Win1: 1.85" vertex="1">
+          <mxGeometry height="80" width="130" x="621" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="c2" parent="1" style="hexagon;whiteSpace=wrap;html=1;align=center;" value="2&#xa;Draw: 3.40" vertex="1">
+          <mxGeometry height="80" width="130" x="621" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="c3" parent="1" style="hexagon;whiteSpace=wrap;html=1;align=center;" value="3&#xa;Win2: 4.10" vertex="1">
+          <mxGeometry height="80" width="130" x="621" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="c5" parent="1" style="hexagon;whiteSpace=wrap;html=1;align=center;" value="5&#xa;Win1: 2.20" vertex="1">
+          <mxGeometry height="80" width="130" x="621" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="c6" parent="1" style="hexagon;whiteSpace=wrap;html=1;align=center;" value="6&#xa;Under2.5: 1.95" vertex="1">
+          <mxGeometry height="80" width="130" x="621" y="450" as="geometry" />
+        </mxCell>
+        <mxCell id="c8" parent="1" style="hexagon;whiteSpace=wrap;html=1;align=center;" value="8&#xa;Win1: 1.50" vertex="1">
+          <mxGeometry height="80" width="130" x="621" y="550" as="geometry" />
+        </mxCell>
+        <mxCell id="c10" parent="1" style="hexagon;whiteSpace=wrap;html=1;align=center;" value="10&#xa;Over1.5: 1.75" vertex="1">
+          <mxGeometry height="80" width="130" x="621" y="650" as="geometry" />
+        </mxCell>
+        <mxCell id="h1" edge="1" parent="1" source="m1" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;entryX=0;entryY=0.5;" target="c1" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="h2" edge="1" parent="1" source="m1" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;entryX=0;entryY=0.5;" target="c2" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="h3" edge="1" parent="1" source="m1" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;entryX=0;entryY=0.5;" target="c3" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="h4" edge="1" parent="1" source="m3" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;entryX=0;entryY=0.5;" target="c5" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="h5" edge="1" parent="1" source="m4" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;entryX=0;entryY=0.5;" target="c6" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="h6" edge="1" parent="1" source="m6" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;entryX=0;entryY=0.5;" target="c8" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="h7" edge="1" parent="1" source="m8" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;entryX=0;entryY=0.5;" target="c10" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
